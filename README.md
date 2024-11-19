@@ -31,6 +31,10 @@ Outliers: Any noticeable outliers or anomalies in the data.
 Comparisons: If applicable, compare the histogram across different groups or sub-datasets.
 6. Results
 Histogram Visualization:
+Perhaps the most popular graphical summary of quantitative variables; Data are first catagorized into classes of equal width and then frequencies and relative frequencies are calculated 
+Box plot visualuazation:
+the median, minimum, Maximum, 1st and 3rd quartiles are used to create box plot 
+
 Include one or more histograms that show the distribution of the data.
 Use appropriate labeling (e.g., axis titles, chart title, legends).
 Summary of Key Insights:
@@ -54,3 +58,6 @@ Additional Visualizations: Any supplementary charts or tables.
 Code: Include relevant snippets of the code used to create the histogram, especially if it's part of the methodology.
 Data Dictionary: If the dataset has many variables, a data dictionary could help explain them.
 Supplementary Tables: Detailed tables of statistical summaries or raw data if necessary.
+
+![image](https://github.com/user-attachments/assets/ec896092-d574-40e8-a023-
+a79fc2076222)
