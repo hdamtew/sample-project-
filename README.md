@@ -59,5 +59,5 @@ Code: Include relevant snippets of the code used to create the histogram, especi
 Data Dictionary: If the dataset has many variables, a data dictionary could help explain them.
 Supplementary Tables: Detailed tables of statistical summaries or raw data if necessary.
 
-![image](https://github.com/user-attachments/assets/ec896092-d574-40e8-a023-
-a79fc2076222)
+![image](https://github.com/user-attachments/assets/28f552ab-bbfc-4dc2-b002-0f3503ab2c8c)
+
