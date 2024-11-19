@@ -1,6 +1,6 @@
 ## Sampel projects
-### 1. Histogram Baby Data
-##### Project Title: "Histogram Data Analysis of [Data Set Name/Topic]"
+###  Histogram Baby Data
+##### 1. Project Title: "Histogram Data Analysis of [Data Set Name/Topic]"
 Hanna Damtew 
 Table of Content 
 1. Introduction 
@@ -14,18 +14,15 @@ Table of Content
 9. Reference
 10. Appendix(if needed)
 
-##### 1.Introduction 
+##### 2.Introduction 
+###### Problem Statment: What is the question or problem you aim to address with the data?
+###### Objecitves: why is the analysis being performed, and what do you hope to discover or demonstrate through the histogram?
+###### Improtance of the stury: whys is this analysis relevant ? who benefits from the results 
 
-Problem Statement: What is the question or problem you aim to address with the data?
-Objective: Why is the analysis being performed, and what do you hope to discover or demonstrate through the histogram?
-Importance of the Study: Why is this analysis relevant? Who benefits from the results
+##### 3.Abstract 
 
-##### 2.Abstract 
-Abstract
-this project will show the density plot of data set 
-conclusions.
+###### this project will show the density plot of data set A
 
-##### 3. Introduction
 Problem Statement: What is the question or problem you aim to address with the data?
 Objective: Why is the analysis being performed, and what do you hope to discover or demonstrate through the histogram?
 Importance of the Study: Why is this analysis relevant? Who benefits from the results?
@@ -43,6 +40,10 @@ Include details such as bin size (number of bins), bin width, and how you chose 
 What software/tools were used (e.g., Python libraries like Matplotlib, Seaborn, or R)?
 Statistical Techniques:
 Any statistical tests or measures (e.g., mean, median, standard deviation, skewness) used to summarize or analyze the data.
+##### 5. Exploratory Data Analysis(EDA)
+###### Intial Observation: Describe the key features of the data as seen from the histogram. 
+###### Distribution Type : Is the data normally distributed, skewed, bimodal, etc?
+
 5. Exploratory Data Analysis (EDA)
 Initial Observations: Describe the key features of the data as seen from the histogram.
 Distribution Type: Is the data normally distributed, skewed, bimodal, etc.?
