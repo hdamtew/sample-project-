@@ -1,20 +1,39 @@
 ## Sampel projects
-### Histogram Baby Data
-
-
-Project Title: "Histogram Data Analysis of [Data Set Name/Topic]"
+### 1. Histogram Baby Data
+##### Project Title: "Histogram Data Analysis of [Data Set Name/Topic]"
 Hanna Damtew 
-Date
-Institution or Organization (if applicable)
-2. Abstract
+Table of Content 
+1. Introduction 
+2. Abstract 
+3. Conclusions 
+4. Methodologies   
+5. Exploratory Data Analysis (EDA)
+6. Results
+7. Desicision
+8. Conclusion
+9. Reference
+10. Appendix(if needed)
+
+##### 1.Introduction 
+
+Problem Statement: What is the question or problem you aim to address with the data?
+Objective: Why is the analysis being performed, and what do you hope to discover or demonstrate through the histogram?
+Importance of the Study: Why is this analysis relevant? Who benefits from the results
+
+##### 2.Abstract 
+Abstract
 this project will show the density plot of data set 
 conclusions.
-3. Introduction
+
+##### 3. Introduction
 Problem Statement: What is the question or problem you aim to address with the data?
 Objective: Why is the analysis being performed, and what do you hope to discover or demonstrate through the histogram?
 Importance of the Study: Why is this analysis relevant? Who benefits from the results?
+Institution or Organization (if applicable)
 Overview of the Dataset: Provide a brief description of the data source, type, and key variables (e.g., numeric, categorical, time series).
-4. Methodology
+
+##### 4. Methodology 
+
 Data Collection:
 How was the data collected or sourced? Is it from a survey, experiment, sensor readings, etc.?
 Any data preprocessing steps (e.g., cleaning, filtering, or transforming data).
