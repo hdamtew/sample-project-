@@ -21,37 +21,33 @@ Table of Content
 
 ##### 3.Abstract 
 
-###### this project will show the density plot of data set A
-
-Problem Statement: What is the question or problem you aim to address with the data?
-Objective: Why is the analysis being performed, and what do you hope to discover or demonstrate through the histogram?
-Importance of the Study: Why is this analysis relevant? Who benefits from the results?
-Institution or Organization (if applicable)
-Overview of the Dataset: Provide a brief description of the data source, type, and key variables (e.g., numeric, categorical, time series).
+###### this project will show the density plot of data set 
+###### Problem statment : what is the question or problem you aim to address with the data?
+###### Objective: why is the analysis beiing performed, and what do you hope to discover or demonstrate through the histogram? 
+###### Importance of the study: why is this analysis relevant? who benefits from the results?
+###### Overview of the Dataset: Provide a brife description of the data source, type, and key variables(e.g., numeric, catagorical, time serires).
+###### Ocerview of the Dataset: Provide a brief description of the data sourc
 
 ##### 4. Methodology 
 
-Data Collection:
-How was the data collected or sourced? Is it from a survey, experiment, sensor readings, etc.?
-Any data preprocessing steps (e.g., cleaning, filtering, or transforming data).
-Histogram Construction:
-Explain how the histogram is created.
-Include details such as bin size (number of bins), bin width, and how you chose these parameters.
-What software/tools were used (e.g., Python libraries like Matplotlib, Seaborn, or R)?
-Statistical Techniques:
-Any statistical tests or measures (e.g., mean, median, standard deviation, skewness) used to summarize or analyze the data.
+###### Data Collection: How was the data collectedor sources? Is it from a survye. experiment. sensor readings, etc,?
+###### Any data preprocessing steps(e.g., cleaning, filtering, or transforming data)
+###### Histogram Construction: Ezplain how the hsitogram is created.
+###### Include details such as bin size (number of bins), bin width, and how you chose these parameters.
+###### What software/tools were used (e.g., Python Libraries like Matplotlib, Seaborn, or R)?
+###### Statistical Techniques: Any stastical tests or measures(e.g., mean, median, standard deviation, skewness) used to summarize or analayze the data.
+
 ##### 5. Exploratory Data Analysis(EDA)
 ###### Intial Observation: Describe the key features of the data as seen from the histogram. 
 ###### Distribution Type : Is the data normally distributed, skewed, bimodal, etc?
+###### Outliners: Any noticeable outliers or anomalies in the data.
+###### Comparision: If appllicable, compare the histogram across different groups or sub-datasets.
+##### Results
+###### Histogram Visualization:
+###### Perhaps the most popular graphical summary of quantitative variables: data are first catagorized into classes of equal width and then frequencies abd relative frequencies are calculated.
 
-5. Exploratory Data Analysis (EDA)
-Initial Observations: Describe the key features of the data as seen from the histogram.
-Distribution Type: Is the data normally distributed, skewed, bimodal, etc.?
-Outliers: Any noticeable outliers or anomalies in the data.
-Comparisons: If applicable, compare the histogram across different groups or sub-datasets.
-6. Results
-Histogram Visualization:
-Perhaps the most popular graphical summary of quantitative variables; Data are first catagorized into classes of equal width and then frequencies and relative frequencies are calculated 
+#####Perhaps the most popular graphical summary of quantitative variables; Data are first catagorized into classes of equal width and then frequencies 
+and relative frequencies are calculated 
 Box plot visualuazation:
 the median, minimum, Maximum, 1st and 3rd quartiles are used to create box plot 
 
